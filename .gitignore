@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
+npm-debug.log*
+coverage/
+Pre-Drive_Product_Engineering_Assignments_5_Options_Updated (1).pdf
